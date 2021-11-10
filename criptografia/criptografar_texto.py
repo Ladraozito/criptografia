@@ -1,4 +1,4 @@
-from criptografia.utilitarios import codificador
+from utilitarios import codificador
 
 while True:
     codificador.limpar()

@@ -1,4 +1,4 @@
-from criptografia.utilitarios import codificador
+from utilitarios import codificador
 
 print('[Cifra de Vènere]')
 while True:
